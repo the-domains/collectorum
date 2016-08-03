@@ -1,4 +1,3 @@
-layout_spectrum: 0.020492006791755557
 typography_spectrum: 0.2088986444287002
 color:
   brandStrength: 0.343223309610039
@@ -11,5 +10,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.020492006791755557
 name: Collectorum
 title: For collectors
+description: ...from an hipercollector
