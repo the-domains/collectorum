@@ -1,0 +1,14 @@
+layout_spectrum: 0.020492006791755557
+typography_spectrum: 0.2088986444287002
+color:
+  brandStrength: 0.343223309610039
+  lightness: 0.240913943387568
+  saturation: 0.6253177293110639
+  rhythmicContrast: 0.31860350514762104
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+name: Collectorum
