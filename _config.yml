@@ -11,6 +11,10 @@ color:
     - '#3E363F'
     - '#DD403A'
 layout_spectrum: 0.020492006791755557
+author:
+  name: Joan Fusté
+  email: joanfuste@gmail.com
+  url: 'http://www.joanfuste.com'
 name: Collectorum
 title: For collectors
 description: ...from an hipercollector
